@@ -1,5 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Unica+One");
+
 body {
   background-color: #252627;
+}
+
+.main-title {
+  font-family: "Unica One", cursive;
+  color: #bb0a21;
+  font-size: 80px;
+}
+.main-title-sub {
+  font-family: "Unica One", cursive;
+  color: #bb0a21;
+}
+
+.tron-style {
+  background-color: #252627;
+  border: 5px solid #bb0a21;
+}
+
+.form-style {
+  background-color: #d3d4d9;
 }
 
 /* reservation styles */
